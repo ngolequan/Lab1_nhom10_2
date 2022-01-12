@@ -47,17 +47,17 @@
         android:id="@+id/btntru"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Trừ" />
+        android:text="@string/tr" />
 
     <Button
         android:id="@+id/btnNhan"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Nhân" />
+        android:text="@string/nh_n" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/btnChia"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="@string/button" />
 </LinearLayout>

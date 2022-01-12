@@ -13,5 +13,9 @@ class MainActivity : AppCompatActivity() {
             var kq: Double = (so1.text.toString()).toDouble() + so2.text.toString().toDouble()
             tvketqua.text = kq.toString()
         }
+        btntru.setOnClickListener {
+            var kq: Double = (so1.text.toString()).toDouble() - so2.text.toString().toDouble()
+            tvketqua.text = kq.toString()
+        }
     }
 }

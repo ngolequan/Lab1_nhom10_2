@@ -5,4 +5,7 @@
     <string name="c_ng">Cộng</string>
     <string name="ban_nh_p_so_1">Ban nhập so 1</string>
     <string name="b_n_h_y_nh_p_s_2">Bạn hãy nhập số 2</string>
+    <string name="tr">Trừ</string>
+    <string name="button">Button</string>
+    <string name="nh_n">Nhân</string>
 </resources>
